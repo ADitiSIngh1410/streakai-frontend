@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+Install the node modules before running
